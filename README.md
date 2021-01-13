@@ -3,7 +3,9 @@ Files for 3D-printed (Fused Filament Fabrication) parts related to Dr. Rebecca B
 
 At this time, we do not intend to provide original design files. 
 
-The STL files were printed primarily on a Original Prusa I3 Mk2.5S using a 0.6mm nozzle and three perimeters. 
+The STL files were printed primarily on a Original Prusa I3 Mk2.5S using a 0.6mm nozzle and three perimeters. The exception are the servo files which were printed with a 0.25mm nozzle. PrusaSlicer's variable layer height was useful. Brim used often; supports rarely if ever.
+
+PNG renders are included; filenames don't always match the STLs, but they should be close.
 
 We used ASA filament for all parts for its heat and UV resistance. ABS could be used for parts that are within the bucket.
 
